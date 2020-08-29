@@ -60,6 +60,8 @@ A simple yet semi-opinionated base project for iOS apps. I made this so that I c
 
 1. Add bitrise perhaps.
 
+1. Add a UIView+.swift file!
+
 
 ## Changelogs
 
