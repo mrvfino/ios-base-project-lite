@@ -133,6 +133,16 @@
 			<key>Path</key>
 			<string>app/extensions/UIImageView+setImage.swift</string>
 		</dict>
+		<key>app/extensions/UIView+.swift</key>
+		<dict>
+			<key>Group</key>
+			<array>
+				<string>app</string>
+				<string>extensions</string>
+			</array>
+			<key>Path</key>
+			<string>app/extensions/UIView+.swift</string>
+		</dict>
 		<key>app/extensions/UIViewController+showAlert.swift</key>
 		<dict>
 			<key>Group</key>
@@ -487,6 +497,7 @@
 		<string>app/extensions/Optional+expect.swift</string>
 		<string>app/extensions/String+trimmed.swift</string>
 		<string>app/extensions/UIImageView+setImage.swift</string>
+		<string>app/extensions/UIView+.swift</string>
 		<string>app/extensions/UIViewController+showAlert.swift</string>
 		<string>app/helpers/DefaultsHelper.swift</string>
 		<string>app/helpers/KeychainHelper.swift</string>
