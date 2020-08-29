@@ -1,0 +1,8 @@
+//  ___FILEHEADER___
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL_SCHEME=https
+API_URL_HOST=development.url.ph/api
+APP_NAMESPACE=$(PRODUCT_BUNDLE_IDENTIFIER).development

@@ -1,0 +1,1 @@
+Remove the references (don't delete) of the files found in this directory. These are just by-products of the Xcode templating system since every file that Xcode needs to move around are automatically given a reference in the project. :)
