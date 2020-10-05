@@ -395,6 +395,16 @@
 			<key>Path</key>
 			<string>app/ui/screens/root/RootViewModel.swift</string>
 		</dict>
+		<key>app/validation/StringValidator.swift</key>
+		<dict>
+			<key>Group</key>
+			<array>
+				<string>app</string>
+				<string>validation</string>
+			</array>
+			<key>Path</key>
+			<string>app/validation/StringValidator.swift</string>
+		</dict>
 		<key>config/Config.swift</key>
 		<dict>
 			<key>Group</key>
@@ -521,6 +531,7 @@
 		<string>app/ui/screens/root/RootViewController.swift</string>
 		<string>app/ui/screens/root/RootViewController.xib</string>
 		<string>app/ui/screens/root/RootViewModel.swift</string>
+		<string>app/validation/StringValidator.swift</string>
 		<string>config/Config.swift</string>
 		<string>config/Development.xcconfig</string>
 		<string>config/Staging.xcconfig</string>
