@@ -1,7 +1,16 @@
 # iOS Base Project Lite v1.0
 
 ## About
-A simple yet semi-opinionated base project for iOS apps. I made this so that I could get an extra 2 hours of sleep during 24 hour hackathons. This bad boy also comes with `.xcschemes` and `.xconfig` files for development, staging, & production environments.
+A simple yet opinionated base project for iOS apps. I made this so that I could get an extra 2 hours of sleep during 24 hour hackathons. This bad boy also comes with `.xcschemes` and `.xconfig` files for development, staging, & production environments.
+
+Pods used:
+- Moya/RxSwift
+- KeychainSwift
+- IQKeyboardManager
+- Kingfisher (4.10.0)
+- PopupDialog
+- RxCocoa
+- SnapKit
 
 ## Requirements
 
