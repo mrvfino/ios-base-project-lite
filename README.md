@@ -29,7 +29,7 @@ Pods used:
 	```
 	cd ~/Downloads
 	git clone https://github.com/markrufino/ios-base-project-lite.git
-	cd ios-base-ios-project-lite
+	cd ios-base-project-lite
 	sh ./install.sh
 	cd ..
 	rm -rf ios-base-project-lite
